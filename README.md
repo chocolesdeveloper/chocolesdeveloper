@@ -1,6 +1,4 @@
 <h1>Olá, me chama William, e estou sempre buscando de conhecimentos</h1>
-<h2>↓↓↓ A baixo tem algumas informações úteis sobre mim ↓↓↓ </h2>
-<div></br></div>
 
 <div align="center" style="display: flex">
   <a href="https://github.com/chocolesdeveloper">
