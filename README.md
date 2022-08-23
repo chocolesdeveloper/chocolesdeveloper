@@ -1,8 +1,8 @@
-<h1>Olá, me chama William, e estou sempre buscando apredizado</h1>
-<h3>A baixo tem algumas informações úteis sobre mim </h3>
+<h1>Olá, me chama William, e estou sempre buscando de conhecimentos</h1>
+<h2>↓↓↓ A baixo tem algumas informações úteis sobre mim ↓↓↓ </h2>
 <div></br></div>
 
-<div align="center">
+<div align="center" style="display: flex">
   <a href="https://github.com/chocolesdeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chocolesdeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocolesdeveloper&layout=compact&langs_count=7&theme=dark"/>
