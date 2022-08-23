@@ -3,6 +3,9 @@
 <div align="center">
   <a href="https://github.com/chocolesdeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chocolesdeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
+  <a href="https://github.com/chocolesdeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocolesdeveloper&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
