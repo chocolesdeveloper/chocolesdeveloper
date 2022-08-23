@@ -1,4 +1,4 @@
-<h1>Olá, me chama William, e estou sempre buscando de conhecimentos</h1>
+<h1>Olá, me chama William, e estou sempre em busca de conhecimentos</h1>
 
 <div align="center">
   <a href="https://github.com/chocolesdeveloper">
