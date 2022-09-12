@@ -1,4 +1,13 @@
-<h1>Olá, me chama William, e estou sempre em busca de conhecimentos</h1>
+<h1>Olá, me chama William, é um prazer</h1>
+<h2>Atualmente sei utilizar:</h2>
+
+<ul>
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>JAVAESCRIPT</li>
+  <li>REACTJS</li>
+  <li>NEXTJS</li>
+</ul>
 
 <div align="center">
   <a href="https://github.com/chocolesdeveloper">
