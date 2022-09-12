@@ -7,6 +7,7 @@
   <li>JAVASCRIPT</li>
   <li>REACTJS</li>
   <li>NEXTJS</li>
+  <li>StyledComponents</li>
 </ul>
 
 <div align="center">
