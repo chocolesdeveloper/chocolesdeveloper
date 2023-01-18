@@ -8,10 +8,10 @@ Gosto de criar ótimos projetos web :)
 
 ```javascript
 function Dev() {
- var name = "William Ferreira Ribeiro";
- var area = ["front-end", "back-end", "mobile"]
+ const name = "William Ferreira Ribeiro";
+ const area = ["front-end", "back-end", "mobile"]
  
- var languages = ["ReactNative", "React", "NodeJS"] 
+ const languages = ["React", "NodeJS", "ReactNative"] 
 
 }
 ```
